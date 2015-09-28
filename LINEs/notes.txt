@@ -1,0 +1,1 @@
+raxmlHPC -T 16 -m GTRGAMMA -n CheckMate.raxml -s LINEs.phy
